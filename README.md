@@ -1,3 +1,10 @@
+## 🔗 Live Storybook
+
+👉 [View Components on Chromatic](https://68020c94052a6d81b3c80116-pwwuwcbssz.chromatic.com)
+
+
+
+
 # 🧩 Design System – Frontend 
 
 This project is a **React + Vite + TypeScript** based reusable Design System with **TailwindCSS** and **Storybook** for component documentation.
@@ -45,7 +52,6 @@ design-system/
 ```bash
 npm run dev
 
-📘 **Live Storybook**: [View Components on Chromatic](https://68020c94052a6d81b3c80116-pwwuwcbssz.chromatic.com/)
 
 
 
