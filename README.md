@@ -1,4 +1,4 @@
-# 🧩 Design System – Frontend Assignment
+# 🧩 Design System – Frontend 
 
 This project is a **React + Vite + TypeScript** based reusable Design System with **TailwindCSS** and **Storybook** for component documentation.
 
@@ -24,6 +24,20 @@ This project is a **React + Vite + TypeScript** based reusable Design System wit
 | ...         | Add more as needed                  |
 
 ---
+
+##📂 Folder Structure
+
+design-system/
+├── src/
+│   ├── components/
+│   │   ├── Input/
+│   │   ├── Typography/
+│   │   └── Toast/
+│   ├── index.css
+│   └── main.tsx
+├── .storybook/
+├── tsconfig.json
+└── README.md
 
 ## 📖 How to Run
 
