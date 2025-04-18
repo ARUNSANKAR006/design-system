@@ -1,0 +1,60 @@
+export const typography = {
+    fontSizes: {
+      xs: '0.75rem',
+      sm: '0.875rem',
+      md: '1rem',
+      lg: '1.125rem',
+      xl: '1.25rem',
+      '2xl': '1.5rem',
+      '3xl': '1.875rem',
+      '4xl': '2.25rem',
+      '5xl': '3rem',
+      '6xl': '3.75rem',
+    },
+    fontWeights: {
+      light: 300,
+      normal: 400,
+      medium: 500,
+      semibold: 600,
+      bold: 700,
+    },
+    lineHeights: {
+      none: 1,
+      tight: 1.25,
+      snug: 1.375,
+      normal: 1.5,
+      relaxed: 1.625,
+      loose: 2,
+    },
+    letterSpacings: {
+      tighter: '-0.05em',
+      tight: '-0.025em',
+      normal: '0',
+      wide: '0.025em',
+      wider: '0.05em',
+      widest: '0.1em',
+    },
+  };
+  
+  export const colors = {
+    light: {
+      primary: '#0070f3',
+      secondary: '#6c757d',
+      success: '#28a745',
+      error: '#dc3545',
+      warning: '#ffc107',
+      info: '#17a2b8',
+      background: '#ffffff',
+      text: '#000000',
+    },
+    dark: {
+      primary: '#3694ff',
+      secondary: '#a9b1b9',
+      success: '#48c76c',
+      error: '#f55a6e',
+      warning: '#ffcd38',
+      info: '#3dd5e7',
+      background: '#121212',
+      text: '#ffffff',
+    },
+  };
